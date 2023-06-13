@@ -1,7 +1,7 @@
 ### Opa, me chamo Fernando. 👋
 
 - 🔭 Atualmente trabalhando na área Fiscal.
-- 🌱 Estudando Python, JavaScript e Java.
+- 🌱 Estudando Python e Java.
 
 ##
 
